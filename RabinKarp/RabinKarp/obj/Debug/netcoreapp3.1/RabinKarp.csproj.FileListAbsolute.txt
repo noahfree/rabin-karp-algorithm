@@ -1,0 +1,14 @@
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\obj\Debug\netcoreapp3.1\RabinKarp.csproj.AssemblyReference.cache
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\obj\Debug\netcoreapp3.1\RabinKarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\obj\Debug\netcoreapp3.1\RabinKarp.AssemblyInfoInputs.cache
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\obj\Debug\netcoreapp3.1\RabinKarp.AssemblyInfo.cs
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\obj\Debug\netcoreapp3.1\RabinKarp.csproj.CoreCompileInputs.cache
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\bin\Debug\netcoreapp3.1\RabinKarp.exe
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\bin\Debug\netcoreapp3.1\RabinKarp.deps.json
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\bin\Debug\netcoreapp3.1\RabinKarp.runtimeconfig.json
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\bin\Debug\netcoreapp3.1\RabinKarp.runtimeconfig.dev.json
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\bin\Debug\netcoreapp3.1\RabinKarp.dll
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\bin\Debug\netcoreapp3.1\RabinKarp.pdb
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\obj\Debug\netcoreapp3.1\RabinKarp.dll
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\obj\Debug\netcoreapp3.1\RabinKarp.pdb
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\RabinKarp\RabinKarp\obj\Debug\netcoreapp3.1\RabinKarp.genruntimeconfig.cache
