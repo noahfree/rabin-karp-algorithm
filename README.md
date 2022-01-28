@@ -1,4 +1,6 @@
 # rabin-karp-algorithm
+I would suggest using the Visual Studio Community 2019 IDE to open and run the project using the .sln file or the .csproj file.
+
 Detailed explanation of the Rabin-Karp algorithm: https://youtu.be/qQ8vS2btsxI
 
 This algorithm uses hashing to find any instances of a pattern in piece of text in linear time. Essentially, a hash value is created for the pattern by summing  each ascii value of the character in the pattern times 26 to the power of ((pattern.Length - 1)-index). We use 26 in this case because when dealing with lowercase alphabetical characters there are 26 possible options, and raising 26 to the power of ((pattern.Length - 1)-index) ensures that the amount of false positives will be minimized. However, a Verify() function is still utilized to verify any matches found.
